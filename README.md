@@ -6,3 +6,7 @@ Updates lined up:-
 
 The backend api used is from fin/io.
 User enabled google sign in and firebase authentication.
+
+https://user-images.githubusercontent.com/93304630/180614825-01650e1b-e6cc-4b1f-ae8d-63c53d450d69.mp4
+
+
